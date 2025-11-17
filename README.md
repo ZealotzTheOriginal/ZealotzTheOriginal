@@ -1,16 +1,17 @@
-## Hi there 👋 I'm Ernest
+## Hi there 👋 I'm Ernest (ZealotzTheOriginal)
 
 😄 Pronouns: He/Him
 🔭 I am currently studying software development on my own, or perhaps I am enrolled in a course.
 
-Languages and Tools
+## Languages and Tools
 
 VSCode, Python, JavaScript, SQL, PostgreSQL, Git, GitHub, Django, DRF, Docker
 
+## About Me
 
 📓 I completed my undergraduate studies at the University of Toronto majoring in computer science with a focus in artificial intelligence, as well as minoring in statistics and mathematics.
 
-⚡ Fun Facts About Me
+## ⚡ Fun Facts About Me
 
 I did competitive swimming for 8 years in primary and secondary school.
 I enjoy watching superhero TV shows and movies. I particularly enjoyed Arrow.
