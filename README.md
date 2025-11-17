@@ -5,17 +5,7 @@
 
 Languages and Tools
 
-Visual Studio Code
-
-Python
-
-Java
-
-SQL
-
-Git
-
-GitHub
+VSCode, Python, JavaScript, SQL, PostgreSQL, Git, GitHub, Django, DRF, Docker
 
 
 📓 I completed my undergraduate studies at the University of Toronto majoring in computer science with a focus in artificial intelligence, as well as minoring in statistics and mathematics.
@@ -27,6 +17,7 @@ I enjoy watching superhero TV shows and movies. I particularly enjoyed Arrow.
 I used to play a lot of Teamfight Tactics, Overwatch 2, Apex Legends, and League of Legends.
 Currently I am suffering my way through the Soulsbourne series
 I like to wear wacky earrings.
+
 😄 Check out my personal portfolio.
 
 💬 Reach out to me:
