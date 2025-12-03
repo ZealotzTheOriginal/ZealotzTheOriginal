@@ -1,30 +1,22 @@
-## Hi there 👋 I'm Ernest (ZealotzTheOriginal)
+### Hey there,🍷 I'm Ernest
+>**Software Developer - Web Designer - Indie Game Developer**
 
-😄 Pronouns: He/Him
-🔭 I am currently studying software development on my own, or perhaps I am enrolled in a course.
+I am currently studying software development on my own, or perhaps I am enrolled in a course...
 
 ## Languages and Tools
+>**VSCode, Python, JavaScript, SQL, PostgreSQL, Git, GitHub, Django, DRF, Docker**
 
-VSCode, Python, JavaScript, SQL, PostgreSQL, Git, GitHub, Django, DRF, Docker
+## ✨ About Me
+I'm quite calm and level-headed, very private about my personal life, and always looking to learn new things in technology. I like to understand the theory so I can develop the practical side. My work motto would be trial and error. I love world-building and storytelling, and especially video games.
 
-## About Me
+***I love listening to music while I work on a project <3***>
 
-📓 I completed my undergraduate studies at the University of Toronto majoring in computer science with a focus in artificial intelligence, as well as minoring in statistics and mathematics.
+## Contact me here:
 
-## ⚡ Fun Facts About Me
+**Email:** *31101469e@gmail.com*
 
-I did competitive swimming for 8 years in primary and secondary school.
-I enjoy watching superhero TV shows and movies. I particularly enjoyed Arrow.
-I used to play a lot of Teamfight Tactics, Overwatch 2, Apex Legends, and League of Legends.
-Currently I am suffering my way through the Soulsbourne series
-I like to wear wacky earrings.
+**Other Mail:** *zealotzthecrow@gmail.com*
 
-😄 Check out my personal portfolio.
-
-💬 Reach out to me:
-
-LinkedIn
-Email
 <!--
 **ZealotzTheOriginal/ZealotzTheOriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
