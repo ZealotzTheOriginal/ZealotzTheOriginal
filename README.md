@@ -1,4 +1,4 @@
-![Captura de pantalla de la página principal](assets/images/6.jpg)
+![Captura de pantalla de la página principal](assets/images/8.jpg)
 
 ### Hey there,🍷 I'm Ernest
 >**Software Developer - Web Designer - Indie Game Developer**
