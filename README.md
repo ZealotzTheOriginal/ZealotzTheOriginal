@@ -1,9 +1,11 @@
 ![Captura de pantalla de la página principal](assets/images/8.jpg)
 
-# ¡Hola! 🍷 Soy Ernest
+#ES / ¡Hola! 🍷 Soy Ernest
 >**Desarrollador de Software - Diseñador Web - Desarrollador de Videojuegos Indie**
 
 Actualmente, estoy estudiando desarrollo de software por mi cuenta, o quizás estoy inscrito en un curso...
+
+***
 
 ## Lenguajes y Herramientas
 >**VSCode, Python, JavaScript, SQL, PostgreSQL, Git, GitHub, Django, DRF, Docker**
@@ -13,24 +15,36 @@ Soy bastante tranquilo y sensato, muy reservado con mi vida personal, y siempre 
 
 ***Me encanta escuchar música mientras trabajo en un proyecto <3***
 
+***
+
 ## Contáctame aquí:
 
 **Correo Electrónico:** *31101469e@gmail.com*
 
 **Otro Correo:** *zeetheexecutor@gmail.com*
 
+***
+
+***
+
 # Hey there,🍷 I'm Ernest
 >**Software Developer - Web Designer - Indie Game Developer**
 
 I am currently studying software development on my own, or perhaps I am enrolled in a course...
 
+***
+
 ## Languages and Tools
 >**VSCode, Python, JavaScript, SQL, PostgreSQL, Git, GitHub, Django, DRF, Docker**
+
+***
 
 ## ✨ About Me
 I'm quite calm and level-headed, very private about my personal life, and always looking to learn new things in technology. I like to understand the theory so I can develop the practical side. My work motto would be trial and error. I love world-building and storytelling, and especially video games.
 
 ***I love listening to music while I work on a project <3***
+
+***
 
 ## Contact me here:
 
