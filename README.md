@@ -1,6 +1,6 @@
 ![Captura de pantalla de la página principal](assets/images/8.jpg)
 
-## Hey there,🍷 I'm Ernest
+# Hey there,🍷 I'm Ernest
 >**Software Developer - Web Designer - Indie Game Developer**
 
 I am currently studying software development on my own, or perhaps I am enrolled in a course...
@@ -17,7 +17,7 @@ I'm quite calm and level-headed, very private about my personal life, and always
 
 **Email:** *31101469e@gmail.com*
 
-**Other Mail:** *zeetheexecutor.com*
+**Other Mail:** *zeetheexecutor@gmail.com*
 
 <!--
 **ZealotzTheOriginal/ZealotzTheOriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
