@@ -1,6 +1,6 @@
 ![Captura de pantalla de la página principal](assets/images/8.jpg)
 
-### Hey there,🍷 I'm Ernest
+## Hey there,🍷 I'm Ernest
 >**Software Developer - Web Designer - Indie Game Developer**
 
 I am currently studying software development on my own, or perhaps I am enrolled in a course...
@@ -11,7 +11,7 @@ I am currently studying software development on my own, or perhaps I am enrolled
 ## ✨ About Me
 I'm quite calm and level-headed, very private about my personal life, and always looking to learn new things in technology. I like to understand the theory so I can develop the practical side. My work motto would be trial and error. I love world-building and storytelling, and especially video games.
 
-***I love listening to music while I work on a project <3***>
+***I love listening to music while I work on a project <3***
 
 ## Contact me here:
 
