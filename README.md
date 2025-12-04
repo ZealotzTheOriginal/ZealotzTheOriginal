@@ -17,7 +17,7 @@ I'm quite calm and level-headed, very private about my personal life, and always
 
 **Email:** *31101469e@gmail.com*
 
-**Other Mail:** *zealotzthecrow@gmail.com*
+**Other Mail:** *zeetheexecutor.com*
 
 <!--
 **ZealotzTheOriginal/ZealotzTheOriginal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
