@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=2500&pause=4500&color=E7E5F7&background=080611&center=true&vCenter=true&random=true&width=1000&lines=%E2%9C%A6+WEB+DEVELOPER+%E2%9C%A6;%E2%9C%A6+GAME+DESIGNER+%E2%9C%A6;%E2%9C%A6+SCRIPTWRITER+%E2%9C%A6;%E2%9C%A6+WEB+DESIGNER+%E2%9C%A6;%E2%9C%A6+QA+TESTER+%E2%9C%A6)](https://git.io/typing-svg)
 <img src="assets/images/8.jpg" alt="Logo Ernest" width="1000" />
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=1700&pause=700&color=E7E5F7&background=080611&center=true&vCenter=true&width=1000&lines=WELCOME;TO;THE;JUNGLE)](https://git.io/typing-svg)
 
 <br>
 &nbsp;
