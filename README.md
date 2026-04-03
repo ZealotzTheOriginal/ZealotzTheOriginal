@@ -2,6 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=2500&pause=4500&color=E7E5F7&background=080611&center=true&vCenter=true&random=true&width=1000&lines=%E2%9C%A6+WEB+DEVELOPER+%E2%9C%A6;%E2%9C%A6+GAME+DESIGNER+%E2%9C%A6;%E2%9C%A6+SCRIPTWRITER+%E2%9C%A6;%E2%9C%A6+WEB+DESIGNER+%E2%9C%A6;%E2%9C%A6+QA+TESTER+%E2%9C%A6)](https://git.io/typing-svg)
 <img src="assets/images/8.jpg" alt="Logo Ernest" width="1000" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=1700&pause=700&color=E7E5F7&background=080611&center=true&vCenter=true&width=1000&lines=WELCOME;TO;THE;JUNGLE)](https://git.io/typing-svg)
+
+<br>
+&nbsp;
+<br>
 
 <table>
   <tr>
@@ -20,7 +25,15 @@
 
 </div>
 
+<br>
+&nbsp;
+<br>
+
 ## 🛠️ Lenguajes y Herramientas / Languages and Tools
+
+<br>
+&nbsp;
+<br>
 
 <div align="center">
 
@@ -40,9 +53,15 @@
 
 </div>
 
----
+<br>
+&nbsp;
+<br>
 
 ## ✨ Sobre Mí / About Me
+
+<br>
+&nbsp;
+<br>
 
 ### 🇪🇸 Español
 > Soy bastante tranquilo y sensato, muy reservado con mi vida personal, y siempre estoy buscando aprender cosas nuevas en tecnología. Me gusta entender la teoría para poder desarrollar la parte práctica.
@@ -53,6 +72,10 @@
 >
 > 🎵 *Me encanta escuchar música mientras trabajo en un proyecto <3*
 
+<br>
+&nbsp;
+<br>
+
 ### 🇺🇸 English
 > I'm quite calm and level-headed, very private about my personal life, and always looking to learn new things in technology. I like to understand the theory so I can develop the practical side.
 >
@@ -62,11 +85,17 @@
 >
 > 🎵 *I love listening to music while I work on a project <3*
 
----
+<br>
+&nbsp;
+<br>
 
 <div align="center">
 
 ## 📬 Contáctame / Contact Me
+
+<br>
+&nbsp;
+<br>
 
 | **Main Email** | **Other Mail** | **Other Mail** |
 | :---: | :---: | :---: |
