@@ -3,19 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&duration=2500&pause=4500&color=E7E5F7&background=080611&center=true&vCenter=true&random=true&width=1000&lines=%E2%9C%A6+WEB+DEVELOPER+%E2%9C%A6;%E2%9C%A6+GAME+DESIGNER+%E2%9C%A6;%E2%9C%A6+SCRIPTWRITER+%E2%9C%A6;%E2%9C%A6+WEB+DESIGNER+%E2%9C%A6;%E2%9C%A6+QA+TESTER+%E2%9C%A6)](https://git.io/typing-svg)
 <img src="assets/images/8.jpg" alt="Logo Ernest" width="1000" />
 
-
-
-<!-- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desarrollador+de+Software;Dise%C3%B1ador+Web;Indie+Game+Developer" alt="Typing SVG" />
-</a> -->
-
 <table>
   <tr>
     <td width="50%">
-      <b>ES:</b> Actualmente, estoy estudiando desarrollo de software por mi cuenta, o quizás estoy inscrito en un curso...
+      <h4>🇪🇸 Español:</h4>
+      <p>Actualmente, estoy estudiando desarrollo de software por mi cuenta, o quizás estoy inscrito en un curso...</p>
+      <p> </p>
     </td>
     <td width="50%">
-      <b>EN:</b> I am currently studying software development on my own, or perhaps I am enrolled in a course...
+      <h4>🇺🇸 English:</h4>
+      <p>I am currently studying software development on my own, or perhaps I am enrolled in a course...</p>
+      <p> </p>
     </td>
   </tr>
 </table>
